@@ -54,3 +54,5 @@ public class AppController {
         return "redirect:/";
     }
 }
+
+//is a second version
